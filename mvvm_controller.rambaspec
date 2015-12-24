@@ -11,7 +11,7 @@ code_files:
 - {name: ViewController/ViewController.h, path: Code/ViewController/ViewController.h.liquid}
 - {name: ViewController/ViewController.m, path: Code/ViewController/ViewController.m.liquid}
 
-# Presenter layer
+# ViewModel layer
 - {name: ViewModel/ViewModel.h, path: Code/ViewModel/ViewModel.h.liquid}
 - {name: ViewModel/ViewModel.m, path: Code/ViewModel/ViewModel.m.liquid}
 
