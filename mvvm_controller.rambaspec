@@ -10,6 +10,7 @@ code_files:
 # View layer
 - {name: ViewController/ViewController.h, path: Code/ViewController/ViewController.h.liquid}
 - {name: ViewController/ViewController.m, path: Code/ViewController/ViewController.m.liquid}
+- {name: ViewController/ViewController.xib, path: Code/ViewController/ViewController.xib.liquid}
 
 # ViewModel layer
 - {name: ViewModel/ViewModel.h, path: Code/ViewModel/ViewModel.h.liquid}
